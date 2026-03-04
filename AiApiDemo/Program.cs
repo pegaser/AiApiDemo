@@ -25,7 +25,7 @@ app.MapGet("/api/support/status", () =>
 {
     return Results.Ok(new
     {
-        message = "Servicio de Soporte IA funcionando correctamente"
+        message = "Servicio de Soporte IA funcionando correctamente."
     });
 });
 
