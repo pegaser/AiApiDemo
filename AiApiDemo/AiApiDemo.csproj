@@ -15,4 +15,8 @@
     <Folder Include="Endpoints\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
 </Project>
